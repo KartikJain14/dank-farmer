@@ -1,0 +1,22 @@
+{
+	"token": "token-here",
+	"prefix": "dd",
+	"bot-prefix": "dank! ",
+	"farm-channel-id": 123,
+	
+	"farm-on-start": true,
+	"Autobeg": true,
+	"Autodaily": true,
+	"Autoweek": false,
+	"Automonth": true,
+	"Automeme": true,
+	"Autolottery": false,
+	"Autoslots": false,
+	"Autobet": false, 
+	"Autogamble": false, 
+	"Autosnake": false, 
+	"Autofish": false, 
+	"Autohunt": false, 
+	"Autowash": true, 
+	"Autofeed": true 
+}
